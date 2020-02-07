@@ -1,2 +1,5 @@
-# CFD_NPTEL_IITKGP
+# CFD NPTEL IIT Kharagpur
 Computational Fluid Dynamics by Prof. Suman Chakraborty (NPTEL 2018)
+https://www.youtube.com/watch?v=aShONtHloUk&list=PLbRMhDVUMngcFmWiK1YBhAbsYo8mYvPKJ
+
+This course provides an introduction to Computational Fluid Dynamics (CFD) with an emphasis on the fundamental principles that govern the implementation of CFD in practical applications. CFD or computational fluid dynamics is a branch of continuum mechanics that deals with numerical simulation of fluid flow and heat transfer problems. The exact analytical solutions of various integral, differential or integro-differential equations, obtained from mathematical modeling of any continuum problem, are limited to only simple geometries. Thus for most situations of practical interest, analytical solutions cannot be obtained and a numerical approach should be applied. In the field of mechanics, the approach of obtaining approximate numerical solutions with the help of digital computers is known as Computational Mechanics whereas the same is termed as Computational Fluid Dynamics for thermo-fluidic problems. CFD, thus, deals with obtaining an approximate numerical solution of the governing equations based on the fundamental conservation laws of mass, momentum and energy.
